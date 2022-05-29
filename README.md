@@ -1,1 +1,1 @@
-# Javascript shopping cart
+# Javascript shopping cart using HTML, CSS and Javascript
